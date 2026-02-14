@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Doma Business</string>
+    <string name="app_name">Doma Assistente</string>
     <string name="teste_text_speech">Teste Text Speech</string>
+    <string name="voice_command">Comando de Voz</string>
+    <string name="read_notifications">Ler Notificações</string>
+    <string name="emergency_alert">Alerta de Emergência</string>
+    <string name="help">Ajuda</string>
 </resources>
