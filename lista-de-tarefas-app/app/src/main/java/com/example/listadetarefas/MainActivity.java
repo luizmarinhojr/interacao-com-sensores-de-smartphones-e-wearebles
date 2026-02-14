@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
 
         // 2. Inicializar a lista e o adaptador
         taskList = new ArrayList<>();
-        // O layout 'simple_list_item_1' é um padrão do Android para listas de texto
         tasksAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, taskList);
 
         // 3. Vincular o adaptador à ListView
